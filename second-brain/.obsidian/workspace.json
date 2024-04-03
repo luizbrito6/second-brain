@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57d6886769b3a31c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes para DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "492c9b282c01780e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modelo OSI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Redes para DevOps.md",
+                "file": "Modelo OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Redes para DevOps.md",
+                "file": "Modelo OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Redes para DevOps.md"
+                "file": "Modelo OSI.md"
               }
             }
           }
@@ -159,9 +183,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e832170efa9fa614",
+  "active": "492c9b282c01780e",
   "lastOpenFiles": [
-    "AWS Solutions Architect.md",
-    "Fundamentos de Redes para DevOps.md"
+    "Fundamentos de Redes para DevOps.md",
+    "Modelo OSI.md",
+    "AWS Solutions Architect.md"
   ]
 }

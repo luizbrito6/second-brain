@@ -1,0 +1,1 @@
+Basicamente é a forma como conseguimos conectar 

@@ -23,8 +23,24 @@
             "id": "98a5d4e63404e4fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69d6de2d1bc4d397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Controler.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -40,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task Controler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task Controler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task Controler.md"
+              }
             }
           }
         ]
@@ -163,11 +183,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "98a5d4e63404e4fb",
+  "active": "69d6de2d1bc4d397",
   "lastOpenFiles": [
+    "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+    "Task Controler.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "README.md",

@@ -54,9 +54,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a73c7aa30170c06d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Controler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Controler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Task Controler.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,10 +187,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "69d6de2d1bc4d397",
+  "active": "a73c7aa30170c06d",
   "lastOpenFiles": [
-    "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Task Controler.md",
+    "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",

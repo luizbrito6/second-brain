@@ -3,6 +3,14 @@ Nos primórdios da internet cada pequena universidade que tinha computadores par
 ##### O que são e para que servem as camadas do Modelo OSI
 ---
 
-| Camada | Descriçl |
-| ------ | -------- |
-|        |          |
+| Camada         | Descrição |
+| -------------- | --------- |
+| Aplicação      |           |
+| Apresentação   |           |
+| Sessão         |           |
+| Transporte     |           |
+| Rede           |           |
+| Enlace         |           |
+| Camada Física  |           |
+
+

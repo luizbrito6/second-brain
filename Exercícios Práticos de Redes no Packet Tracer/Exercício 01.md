@@ -22,4 +22,5 @@ Configure uma Vlan nas subs-rede. Configure uma VLAN nas sub-redes. Em cada Sub-
 ----
 - [[Cálculo de sub-rede]]
 - [[Tipos de redes geográficas]]
-- 
+- Classes de IP 
+- [[Topologia Estrela de rede]] 

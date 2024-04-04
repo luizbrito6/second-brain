@@ -55,12 +55,8 @@
             "id": "992a25c0a88d2029",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -130,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md"
-              }
+              "state": {}
             }
           }
         ]

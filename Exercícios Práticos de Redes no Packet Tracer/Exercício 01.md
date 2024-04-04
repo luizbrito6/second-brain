@@ -15,3 +15,11 @@ A empresa Super Tech, precisa criar a estrutura de sua rede de computadores, de 
 - Cada departamento deve estar em uma sub-rede. 
 
 Configure uma Vlan nas subs-rede. Configure uma VLAN nas sub-redes. Em cada Sub-rede crie 2 vlans com 12 portas cada. Da 1-12 VLAN1 e da 13 a 24 VLAN2. Cada VLAN vai ter 10 estações, 1 impressora e um Servidor. Os departamentos são: Engenharia, Compras, T.I. Interno e Infraestrutura. Os departamentos de Engenharia e T.I. Interno devem ser colocados IPs estáticos, já nos departamentos de compras e Infraestrutura devem ser colocados IPs dinâmicos, de maneira que siga a sequência dos IPs estáticos.
+
+
+
+#### Tópicos desse exercício 
+----
+- [[Cálculo de sub-rede]]
+- [[Tipos de redes geográficas]]
+- 

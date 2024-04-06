@@ -1,14 +1,5 @@
 - [[Sistemas Numéricos]]
-- Conversão de binário para decimal
-- Conversão de decimal para binário 
-- Sistema octal 
-- Octal para decimal
-- Decimal para octal
-- Sistema hexadecimal 
-- Hexadecimal para decimal
-- Decimal para hexadecima
-- Binário para hexadecimal 
-- Octal para binário 
 - Meio Somador
 - Somador completo
 - Meio Substrator
+- Subtrator completo 

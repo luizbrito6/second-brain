@@ -13,3 +13,7 @@ Existem alguns sistemas numéricos que vamos comentar aqui em função da prova 
 - [[Sistema Hexadecimal]] 
 
 É importante frisar que o nome do sistema representa quantos algarismos vamos utilizar para presentar todos os demais, po exemplo, no [[Sistema Binário]] utilizamos apenas 2 (0 e 1) e no [[Sistema Octal]] utilizamos 8 algarismos (0, 1, 2 3, 4, 5, 6, 7). 
+
+> [!NOTE]
+> A parte mais importante desse tópicos para a prova seria a [[Conversão entre Sistemas Numéricos]]
+

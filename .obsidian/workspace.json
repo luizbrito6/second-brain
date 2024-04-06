@@ -11,11 +11,28 @@
             "id": "097e433dd0483a7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Computação/Tópicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2bb89df79e489c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Computação/Sistemas Numéricos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introdução a Computação/Sistemas Numéricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introdução a Computação/Sistemas Numéricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introdução a Computação/Sistemas Numéricos.md"
+              }
             }
           }
         ]
@@ -138,8 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "097e433dd0483a7c",
+  "active": "5623df214dba0b8f",
   "lastOpenFiles": [
+    "Introdução a Computação/Tópicos.md",
+    "Introdução a Computação/Sistemas Numéricos.md",
+    "Introdução a Computação",
     "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",

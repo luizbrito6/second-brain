@@ -1,7 +1,7 @@
 - [[Sistemas Numéricos]]
 - Conversão de binário para decimal
 - Conversão de decimal para binário 
-- Sistema octal Numéricos 
+- Sistema octal 
 - Octal para decimal
 - Decimal para octal
 - Sistema hexadecimal 

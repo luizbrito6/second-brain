@@ -134,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md"
+              }
             }
           }
         ]

@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e81bd3ad1d0fdb27",
+        "id": "e062917393c40579",
         "type": "tabs",
         "children": [
           {
-            "id": "c17084f9f83eb4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introdução a Computação/Sistemas Numéricos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ae146a1679ffdb",
+            "id": "021bc7dacc94439d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b4336f0759c38961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introdução a Computação/Sistema Binário.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +146,13 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "c9ae146a1679ffdb",
+  "active": "021bc7dacc94439d",
   "lastOpenFiles": [
-    "Introdução a Computação/Conversão entre Sistemas Numéricos.md",
     "Introdução a Computação/Sistemas Numéricos.md",
-    "Introdução a Computação/Tópicos.md",
-    "Introdução a Computação/Sistema Binário.md",
     "Introdução a Computação/Sistema Decimal.md",
+    "Introdução a Computação/Sistema Binário.md",
+    "Introdução a Computação/Conversão entre Sistemas Numéricos.md",
+    "Introdução a Computação/Tópicos.md",
     "Introdução a Computação",
     "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",

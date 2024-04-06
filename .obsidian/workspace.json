@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "121ce09857a8b795",
+            "id": "b4336f0759c38961",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,11 +32,15 @@
             }
           },
           {
-            "id": "9ef957a67ab0a5a7",
+            "id": "121ce09857a8b795",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sistema Binário.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -167,8 +171,9 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "121ce09857a8b795",
+  "active": "b4336f0759c38961",
   "lastOpenFiles": [
+    "Sistema Decimal.md",
     "Introdução a Computação/Sistemas Numéricos.md",
     "Sistema Binário.md",
     "Introdução a Computação/Tópicos.md",

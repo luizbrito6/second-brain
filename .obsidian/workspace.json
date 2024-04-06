@@ -58,9 +58,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "7548227633fd2d1e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -187,8 +191,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "992a25c0a88d2029",
+  "active": "7548227633fd2d1e",
   "lastOpenFiles": [
+    "Azure/Azure Monitor Agent.md",
+    "Azure",
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Exercícios Práticos de Redes no Packet Tracer",
     "Task Controler.md",

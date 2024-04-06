@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bf5960f82c6dec83",
+        "id": "0cab0a8bbe40d348",
         "type": "tabs",
         "children": [
           {
-            "id": "57d6886769b3a31c",
+            "id": "097e433dd0483a7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98a5d4e63404e4fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bbbc94ef57293e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a73c7aa30170c06d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "992a25c0a88d2029",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7548227633fd2d1e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,17 +138,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7548227633fd2d1e",
+  "active": "097e433dd0483a7c",
   "lastOpenFiles": [
+    "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+    "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
+    "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Azure/Azure Monitor Agent.md",
     "Azure",
-    "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Exercícios Práticos de Redes no Packet Tracer",
     "Task Controler.md",
-    "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "README.md",
     "Fundamentos de Redes para DevOps/Conceitos/DNS.md",

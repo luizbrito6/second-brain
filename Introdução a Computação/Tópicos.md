@@ -1,5 +1,5 @@
 - [[Sistemas Numéricos]]
-- Meio Somador
+- [[Meio Somador]]
 - Somador completo
 - Meio Substrator
 - Subtrator completo 

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introdução a Computação/Conversão entre Sistemas Numéricos.md",
+                "file": "Introdução a Computação/Tópicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa038a12fde0c749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meio Somador.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introdução a Computação/Conversão entre Sistemas Numéricos.md",
+                "file": "Meio Somador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introdução a Computação/Conversão entre Sistemas Numéricos.md",
+                "file": "Meio Somador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introdução a Computação/Conversão entre Sistemas Numéricos.md"
+                "file": "Meio Somador.md"
               }
             }
           }
@@ -146,13 +159,15 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "021bc7dacc94439d",
+  "active": "fa038a12fde0c749",
   "lastOpenFiles": [
-    "Introdução a Computação/Sistemas Numéricos.md",
-    "Introdução a Computação/Sistema Decimal.md",
-    "Introdução a Computação/Sistema Binário.md",
-    "Introdução a Computação/Conversão entre Sistemas Numéricos.md",
     "Introdução a Computação/Tópicos.md",
+    "Meio Somador.md",
+    "Introdução a Computação/Conceitos/Conversão entre Sistemas Numéricos.md",
+    "Introdução a Computação/Conceitos",
+    "Introdução a Computação/Conceitos/Sistemas Numéricos.md",
+    "Introdução a Computação/Conceitos/Sistema Decimal.md",
+    "Introdução a Computação/Conceitos/Sistema Binário.md",
     "Introdução a Computação",
     "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",

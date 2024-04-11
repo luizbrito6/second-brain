@@ -9,7 +9,7 @@
 	5. Para acessar o vault status é necessário realizar uma configuração onde passamos a url com o clusterip do vault, com isso é necessário exportar a variável VAULT_ADDR, conseguimos o ip do vault com o seguinte comando (kubectl get svc)
 	6. Agora começamos de fato o processo de inicialização (vault operator init) iimportante guardar os  tokens gerados. 
 	7. Após isso é necessário quebrar o lacre do vault com os tokens gerados (valt)
-	8. teste 
+	8. teste teste
 	
 		
 

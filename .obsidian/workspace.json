@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/EXTERNAL SECRETS, KUBERNETES E HASHICORP VAULT.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introdução a Computação/Tópicos.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introdução a Computação/Tópicos.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introdução a Computação/Tópicos.md"
+                "file": "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md"
               }
             }
           }
@@ -171,8 +171,11 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "5623df214dba0b8f",
+  "active": "200f98f419253972",
   "lastOpenFiles": [
+    "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
+    "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+    "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "Introdução a Computação/Tópicos.md",
     "K8s/EXTERNAL SECRETS, KUBERNETES E HASHICORP VAULT.md",
     "K8s",
@@ -190,13 +193,10 @@
     "Azure",
     "Exercícios Práticos de Redes no Packet Tracer",
     "Task Controler.md",
-    "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "README.md",
     "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
-    "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "Fundamentos de Redes para DevOps/Conceitos",
     "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "Fundamentos de Redes para DevOps",

@@ -24,3 +24,4 @@ O HTTP é um protocolo de comunicação que é executado na camada de aplicaçã
 #### HTTP Persistent vs Not-persistent
 ---
 Aqui são dois termos que são um a evolução do outro. No caso a comunicação entre servidor e cliente pode ser persistente, não persistente e paralela, focando nos dois primeiros termos é necessário observar que para o ocorrer essa comunicação tem que ter uma conexão entre o servidor e o cliente, se for persistente essa conexão é feita uma única vez e as solicitações são enviadas nessa conexão aberta, no caso da não persistente é necessário abrir uma nova conexão para cada solicitação.
+

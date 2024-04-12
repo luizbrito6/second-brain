@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md"
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HTTP.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "200f98f419253972",
   "lastOpenFiles": [
+    "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
@@ -187,7 +188,6 @@
     "Introdução a Computação/Conceitos/Sistema Binário.md",
     "Introdução a Computação",
     "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
-    "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Azure/Azure Monitor Agent.md",
     "Azure",

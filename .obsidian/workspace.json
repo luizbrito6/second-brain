@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed00b93719336efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entendendo Chaves simétricas e assimétricas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+                "file": "Entendendo Chaves simétricas e assimétricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+                "file": "Entendendo Chaves simétricas e assimétricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md"
+                "file": "Entendendo Chaves simétricas e assimétricas.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "021bc7dacc94439d",
+  "active": "ed00b93719336efc",
   "lastOpenFiles": [
+    "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+    "Entendendo Chaves simétricas e assimétricas.md",
+    "Untitled",
     "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Introdução a Computação/Tópicos.md",
@@ -160,7 +176,6 @@
     "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
-    "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "K8s/EXTERNAL SECRETS, KUBERNETES E HASHICORP VAULT.md",
     "K8s",
     "Introdução a Computação/Conceitos",

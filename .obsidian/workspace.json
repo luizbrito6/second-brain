@@ -11,12 +11,8 @@
             "id": "021bc7dacc94439d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,10 +153,10 @@
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
     "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
+    "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "Untitled",
-    "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Introdução a Computação/Tópicos.md",
     "README.md",

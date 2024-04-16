@@ -1,1 +1,1 @@
-Esse processo funciona em várias etapas 
+Esse processo funciona em várias etapas primeiro é necessário entender o que está dissertado aqui [[Entendendo Chaves simétricas e assimétricas]] , para 

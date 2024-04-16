@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entendendo Chaves simétricas e assimétricas.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entendendo Chaves simétricas e assimétricas.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entendendo Chaves simétricas e assimétricas.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entendendo Chaves simétricas e assimétricas.md"
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ed00b93719336efc",
+  "active": "5623df214dba0b8f",
   "lastOpenFiles": [
+    "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
+    "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
-    "Entendendo Chaves simétricas e assimétricas.md",
     "Untitled",
     "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
@@ -185,7 +186,6 @@
     "Azure",
     "Exercícios Práticos de Redes no Packet Tracer",
     "Task Controler.md",
-    "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
     "Fundamentos de Redes para DevOps/Conceitos",
     "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",

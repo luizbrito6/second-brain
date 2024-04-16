@@ -2,4 +2,4 @@ Esse processo funciona em várias etapas primeiro é necessário entender o que 
 
 
 Passo 01 - No primeiro passo o cliente vai enviar um "Hello World" para o servidor informando quais versões do TLS ele tem suporte e um conjunto de cifras que estão disponíveis.
-Passo 02 
+Passo 02 - O servidor responde o cliente com o certificado TLS que contém a chave pública do servido

@@ -5,10 +5,10 @@ O HTTP é um protocolo de comunicação que é executado na camada de aplicaçã
 #### Métodos HTTP
 ---
 
-|Método|Ação|
-|---|---|
-|GET|Buscar dados|
-|POST|Enviar dados|
+| Método | Ação         |
+| ------ | ------------ |
+| GET    | Buscar dados |
+| POST   | Enviar dados |
 
 #### Response Code
 ---

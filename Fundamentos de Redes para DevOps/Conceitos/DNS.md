@@ -47,3 +47,5 @@ dig @ip-server-dns url <dns-record>
 ```
 
 Importante frisar que você pode passar uma url ou um ip.
+
+

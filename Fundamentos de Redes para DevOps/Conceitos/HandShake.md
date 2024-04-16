@@ -1,1 +1,1 @@
-Esse processo funciona em várias etapas primeiro é necessário entender o que está dissertado aqui [[Entendendo Chaves simétricas e assimétricas]] , para 
+Esse processo funciona em várias etapas primeiro é necessário entender o que está dissertado aqui [[Entendendo Chaves simétricas e assimétricas]] , para assim realizarmos o processo do hadshake, basicamente aqui é um aperto de mãos entre o cliente e o  servidor para conseguirmos uma comunicação criptografada, a primeira etapa é o [[3-Way TCP handshake]] 

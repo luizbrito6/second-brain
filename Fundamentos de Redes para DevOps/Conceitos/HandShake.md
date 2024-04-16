@@ -1,2 +1,4 @@
-Esse processo funciona em várias etapas primeiro é necessário entender o que está dissertado aqui [[Entendendo Chaves simétricas e assimétricas]] , para assim realizarmos o processo do hadshake, basicamente aqui é um aperto de mãos entre o cliente e o  servidor para conseguirmos uma comunicação criptografada, a primeira etapa é o [[3-Way TCP handshake]] onde vamos ter uma comunicação iniciar, após esse processo vamos para o client hello onde o cliente vai informar as quais versões do tls ele tem suporte. 
- 
+Esse processo funciona em várias etapas primeiro é necessário entender o que está dissertado aqui [[Entendendo Chaves simétricas e assimétricas]] , para assim realizarmos o processo do hadshake, basicamente aqui é um aperto de mãos entre o cliente e o  servidor para conseguirmos uma comunicação criptografada, a primeira etapa é o [[3-Way TCP handshake]] onde vamos ter uma comunicação inicial, 
+
+
+Passo 01 - No primeiro passo o cliente vai enviar um "Hello World" para o servidor 

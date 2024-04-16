@@ -1,4 +1,4 @@
------
+'-----
 Esse é um protocolo que é extremamente importante pensando [[Objetivos básicos de segurança em redes]] onde é possível criptografar os dados que estão transitando de uma lado para outro. 
 
 #### O que é? 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md"
+                "file": "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md"
               }
             }
           }
@@ -160,11 +160,16 @@
   },
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
-    "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
-    "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
-    "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
-    "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+    "TCP/IP.md",
+    "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+    "TCP",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
+    "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
+    "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+    "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+    "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
+    "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+    "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "Untitled",
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Introdução a Computação/Tópicos.md",
@@ -175,19 +180,16 @@
     "Introdução a Computação/Conceitos/Meio Somador.md",
     "Introdução a Computação/Conceitos/Conversão entre Sistemas Numéricos.md",
     "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
-    "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "K8s/EXTERNAL SECRETS, KUBERNETES E HASHICORP VAULT.md",
     "K8s",
     "Introdução a Computação/Conceitos",
     "Introdução a Computação",
-    "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Azure/Azure Monitor Agent.md",
     "Azure",
     "Exercícios Práticos de Redes no Packet Tracer",
     "Task Controler.md",
     "Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
     "Fundamentos de Redes para DevOps/Conceitos",
-    "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "Fundamentos de Redes para DevOps",
     "AWS Solutions Architect.md"
   ]

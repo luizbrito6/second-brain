@@ -18,5 +18,3 @@ Certo, após montar a tabela verdade é necessário entender o funcionamento dos
 - A normal / B negado 
 - A normal / B normal 
 
-Com isso conseguimos 
-

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introdução a Computação/Tópicos.md",
+                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introdução a Computação/Tópicos.md",
+                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introdução a Computação/Tópicos.md",
+                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introdução a Computação/Tópicos.md"
+                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
+    "Introdução a Computação/Tópicos.md",
     "README.md",
     "Introdução a Computação/Conceitos/Sistema Binário.md",
     "Introdução a Computação/Conceitos/Sistema Decimal.md",
     "Introdução a Computação/Conceitos/Sistemas Numéricos.md",
     "Introdução a Computação/Conceitos/Meio Somador.md",
     "Introdução a Computação/Conceitos/Conversão entre Sistemas Numéricos.md",
-    "Introdução a Computação/Tópicos.md",
     "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",

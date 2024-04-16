@@ -1,1 +1,1 @@
-Esse processo 
+Esse processo funciona em várias etapas 

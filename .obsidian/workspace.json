@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md"
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
+    "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+    "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Introdução a Computação/Tópicos.md",
     "README.md",
     "Introdução a Computação/Conceitos/Sistema Binário.md",
@@ -164,13 +166,11 @@
     "Introdução a Computação/Conceitos",
     "Introdução a Computação",
     "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
-    "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Azure/Azure Monitor Agent.md",
     "Azure",
     "Exercícios Práticos de Redes no Packet Tracer",
     "Task Controler.md",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
     "Fundamentos de Redes para DevOps/Conceitos",
     "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",

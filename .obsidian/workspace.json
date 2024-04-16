@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md"
+                "file": "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md"
               }
             }
           }
@@ -159,11 +159,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5623df214dba0b8f",
+  "active": "ed00b93719336efc",
   "lastOpenFiles": [
+    "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
-    "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Untitled",
     "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",

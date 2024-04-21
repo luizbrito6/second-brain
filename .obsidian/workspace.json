@@ -11,9 +11,11 @@
             "id": "021bc7dacc94439d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240421171516.png"
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "dd39d28f6716c40b"
@@ -30,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pasted image 20240421171516.png",
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240421171516.png",
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240421171516.png",
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240421171516.png"
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md"
               }
             }
           }
@@ -189,12 +191,12 @@
   },
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
+    "Pasted image 20240421171516.png",
     "SS - Troubleshooting.md",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "Redes Alura/Redes On-boarding Alura.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
-    "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
@@ -228,7 +230,6 @@
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "Introdução a Computação/Tópicos.md",
     "README.md",
-    "Introdução a Computação/Conceitos/Sistema Binário.md",
     "K8s",
     "Introdução a Computação/Conceitos",
     "Introdução a Computação"

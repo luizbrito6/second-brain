@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,9 +49,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5488f83c15ee13fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md"
+              }
             }
           }
         ]
@@ -173,8 +190,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0e505268a28cff5c",
+  "active": "5488f83c15ee13fe",
   "lastOpenFiles": [
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
     "Redes Alura/Redes On-boarding Alura.md",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
@@ -214,7 +232,6 @@
     "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "Untitled",
     "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
-    "Introdução a Computação/Tópicos.md",
     "K8s",
     "Introdução a Computação/Conceitos",
     "Introdução a Computação"

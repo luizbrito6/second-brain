@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md"
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Redes Alura/Redes On-boarding Alura.md",
     "TCP/IP.md",
@@ -162,7 +163,6 @@
     "♾️ Fundamentos de Redes para DevOps/Imagens/Modelo-OSI.png",
     "♾️ Fundamentos de Redes para DevOps/Imagens",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",

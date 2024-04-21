@@ -19,21 +19,8 @@
               }
             },
             "group": "dd39d28f6716c40b"
-          },
-          {
-            "id": "aeb85f81a15801b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SS - Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7254c16a5b9a6415",
@@ -141,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SS - Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SS - Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +187,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "aeb85f81a15801b5",
+  "active": "5623df214dba0b8f",
   "lastOpenFiles": [
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "SS - Troubleshooting.md",

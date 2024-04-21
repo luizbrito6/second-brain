@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2e744f67b40756f",
@@ -189,21 +190,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a1d82b047fd1dca3",
+  "active": "021bc7dacc94439d",
   "lastOpenFiles": [
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+    "Redes Alura/Redes On-boarding Alura.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
     "♾️ Fundamentos de Redes para DevOps/Imagens/3-way-handshake-tcp.png",
-    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
-    "Redes Alura/Redes On-boarding Alura.md",
     "TCP/IP.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Redes Alura/Imagens/saida-dig.png",

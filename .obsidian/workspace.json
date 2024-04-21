@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md"
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md"
               }
             }
           }
@@ -192,12 +192,12 @@
   },
   "active": "5488f83c15ee13fe",
   "lastOpenFiles": [
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
     "Redes Alura/Redes On-boarding Alura.md",
+    "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
-    "Pasted image 20240421171516.png",
     "SS - Troubleshooting.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
@@ -231,7 +231,6 @@
     "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "Untitled",
-    "Exercícios Práticos de Redes no Packet Tracer/Exercício 01.md",
     "K8s",
     "Introdução a Computação/Conceitos",
     "Introdução a Computação"

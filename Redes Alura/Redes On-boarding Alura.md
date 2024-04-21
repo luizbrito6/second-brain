@@ -1,6 +1,7 @@
 ---------------
 
 
+
 1. Como eu consigo visualizar o IP da minha máquina? 
 ```
 ip addr

@@ -10,8 +10,7 @@ Esse curso tem como objetivo apresentar os conceitos de redes com uma camada de 
 	- Agora que conseguimos entender tópicos de coleta de informações da comunicação com [[HTTP]], o funcionamento da criptografia dos dados com [[TLS-SSL]] e a tradução de nome com [[DNS]] para conseguir acessar host com uma url e não um IP é necessário acessarmos a próxima camada que vem com a seguinte perguntar ***"Tá mas como esses dados vão transitar?"*** 
 	- Um ponto importante dessa transição entre camadas é que elas são estritamente dependentes sem os processos da camada de aplicação não conseguimos chegar na camada de transporte e consequentemente na camada de rede. 
 - Seção 3: Camada de Rede
-	- Fo
-
+	- 
 
 
 

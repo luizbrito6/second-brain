@@ -5,3 +5,5 @@ Para estabelecer uma conexão TCP é necessário assim como no [[TLS-SSL]] reali
 3. No terceiro e último passo é necessário o cliente responder a última mensagem do servidor, somente com a flag ACK ativada, o número sequecial enviado pelo servidor + 1, o número ACK que é o somando na segunda etapa e a conexão assim foi estabelecida; 
 
 ![[3-way-handshake-tcp.png]]
+
+MTU e MSS

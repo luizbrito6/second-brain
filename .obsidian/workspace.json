@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP/IP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP/IP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP/IP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP/IP.md"
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
     "Redes Alura/Redes On-boarding Alura.md",
+    "TCP/IP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
@@ -172,7 +173,6 @@
     "♾️ Fundamentos de Redes para DevOps/Conceitos",
     "♾️ Fundamentos de Redes para DevOps",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "TCP/IP.md",
     "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "TCP",
     "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",

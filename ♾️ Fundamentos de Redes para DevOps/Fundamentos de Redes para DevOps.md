@@ -7,7 +7,8 @@ Esse curso tem como objetivo apresentar os conceitos de redes com uma camada de 
 - Seção 1: Camada de Aplicação
 	- Essa seção do curso teve como objetivo demonstrar primeiramente o funcionamento da camada de aplicação do [[Modelo OSI]], porém logo em seguida o instrutor apresentou o conceito dando ênfase no [[TCP-IP]]. Dando continuidade a seção foi apresentado as demais camadas que vamos ver nesse curso e conceitos como o [[HTTP]], [[Proxy]], [[Cookies]] , [[DNS]], [[TLS-SSL]] entre outros que também vão ser mencionados.  
 - Seção 2: Camada de transporte
-	- Agora que conseguimos entender tópicos de coleta de informações da comunicação com [[HTTP]], o funcionamento da criptografia dos dados com [[TLS-SSL]] e a tradução de nome com [[DNS]] para conseguir acessar host com uma url e não um IP é necessário acessarmos a próxima camada que vem com a seguinte perguntar ***"Tá mas como esses dados vão transitar?"***
+	- Agora que conseguimos entender tópicos de coleta de informações da comunicação com [[HTTP]], o funcionamento da criptografia dos dados com [[TLS-SSL]] e a tradução de nome com [[DNS]] para conseguir acessar host com uma url e não um IP é necessário acessarmos a próxima camada que vem com a seguinte perguntar ***"Tá mas como esses dados vão transitar?"*** 
+	- Um ponto importante dessa transição entre camadas 
 - Seção 3: Camada de Rede
 
 

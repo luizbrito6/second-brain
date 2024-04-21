@@ -8,4 +8,4 @@ Para estabelecer uma conexão TCP é necessário assim como no [[TLS-SSL]] reali
 
 ##### MTU e MSS
 --------
- 
+ ![[Pasted image 20240421171516.png]]

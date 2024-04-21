@@ -6,4 +6,6 @@ Para estabelecer uma conexão TCP é necessário assim como no [[TLS-SSL]] reali
 
 ![[3-way-handshake-tcp.png]]
 
-MTU e MSS
+##### MTU e MSS
+--------
+ 

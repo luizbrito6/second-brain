@@ -18,14 +18,9 @@ Outro ponto legal é que com esse comando é possível visualizar o ip privado d
 -------
 Através da máscara de rede é possível conseguir informações importantes como o ip do [[Broadcast]], o número de hosts disponíveis na rede, o ip da própria rede e através dessas informações conseguimos dimensionar tópicos como calculo de subnets. 
 
-
-#### O que é o gateway da rede?
-------
-
 ```
 ip route 
 ```
-
 
 A uma rfc que informa quais são os endereços privados, sendo assim existe uma faixa específica de ips que está destinada a ser usada localmente, sem se comunicar com a internet diretamente. 
 

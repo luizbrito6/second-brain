@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md"
+                "file": "Fundamentos de Redes para DevOps/Conceitos/HandShake.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
+    "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "TCP/IP.md",
     "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "TCP",
-    "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Fundamentos de Redes para DevOps/Conceitos/DNS.md",

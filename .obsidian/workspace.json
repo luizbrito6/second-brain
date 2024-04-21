@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes Alura/Redes On-boarding Alura.md",
+                "file": "TCP/IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes Alura/Redes On-boarding Alura.md",
+                "file": "TCP/IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes Alura/Redes On-boarding Alura.md",
+                "file": "TCP/IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes Alura/Redes On-boarding Alura.md"
+                "file": "TCP/IP.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
+    "Redes Alura/Redes On-boarding Alura.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Redes Alura/Imagens/saida-dig.png",
     "Redes Alura/Imagens/mapa-traceroute.png",
     "Redes Alura/Imagens/arquivo-etc-hosts.png",
-    "Redes Alura/Redes On-boarding Alura.md",
     "Redes Alura/Imagens",
     "Redes Alura",
     "♾️ Fundamentos de Redes para DevOps/Imagens/TCP-IP.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "Broadcast.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "Broadcast.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "Broadcast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "Broadcast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md"
+                "file": "Broadcast.md"
               }
             }
           }
@@ -191,11 +191,12 @@
   },
   "active": "021bc7dacc94439d",
   "lastOpenFiles": [
+    "Redes Alura/Redes On-boarding Alura.md",
+    "Broadcast.md",
+    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Pasted image 20240421171516.png",
     "SS - Troubleshooting.md",
-    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
-    "Redes Alura/Redes On-boarding Alura.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",

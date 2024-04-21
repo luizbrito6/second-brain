@@ -16,7 +16,7 @@ A saída desse comando dá informações importantes para gente, o ponto mais le
 Outro ponto legal é que com esse comando é possível visualizar o ip privado da minha máquina, no meu caso uma vm que está rodando na azure . 
 #### Endereçamento e máscaras de rede 
 -------
-Através da máscara de rede é possível conseguir informações importantes como o ip do [[broadcast]], o número de hosts disponíveis na rede, o ip da própria rede e através dessas informações conseguimos dimensionar tópicos como calculo de subnets. 
+Através da máscara de rede é possível conseguir informações importantes como o ip do [[Broadcast]], o número de hosts disponíveis na rede, o ip da própria rede e através dessas informações conseguimos dimensionar tópicos como calculo de subnets. 
 
 
 #### O que é o gateway da rede?

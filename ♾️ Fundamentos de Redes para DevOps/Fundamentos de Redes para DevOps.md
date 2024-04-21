@@ -1,4 +1,4 @@
-Esse curso tem como objetivo apresentar os conceitos de redes com uma camada de abstração focada para DevOps, ou seja, não é tão aprofundado como em conceitos do CCNA, esse curso está dentro do meu escopo de preparação para a certificação .
+Esse curso tem como objetivo apresentar os conceitos de redes com uma camada de abstração focada para DevOps, ou seja, não é tão aprofundado como em conceitos do CCNA, esse curso está dentro do meu escopo de preparação para a certificação SA da AWS.
 
 > [!NOTE]
 >A dependência no entre as camadas é um ponto importante de se analisar, pois, por exemplo, não tem como um pacote transitar entre dois hosts se não existe o link criado na camada de enlace, ou não tem uma conexão com a internet na camada física.

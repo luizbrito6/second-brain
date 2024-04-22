@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md"
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "52e06b9f75d521fb",
   "lastOpenFiles": [
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
@@ -163,7 +164,6 @@
     "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "Introdução a Computação/Day 01/O que é um container.md",
     "Introdução a Computação/Day 01",
     "Redes Alura/Redes On-boarding Alura.md",

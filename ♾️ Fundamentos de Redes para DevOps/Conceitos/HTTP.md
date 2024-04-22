@@ -28,5 +28,3 @@ Aqui são dois termos que são um a evolução do outro. No caso a comunicação
 #### Troubleshooting HTTP com arquivo HAR
 -- -- -- 
 Um ponto a se observar que dependendo do site nós vamos ter ele salvo em [[Cache]] e isso faz com que o primeiro response code retornado seja o 304 e sua descrição seria algo como o não modificado. 
-
-Como funciona esse processo de dizer se tá em cache ou não?

@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Way TCP handshake.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -46,24 +46,16 @@
             "id": "0e505268a28cff5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b9a1a9829fb071e0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Way TCP handshake.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.5
   },
   "right": {
     "id": "f2e744f67b40756f",
@@ -129,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Way TCP handshake.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Way TCP handshake.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Way TCP handshake.md"
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md"
               }
             }
           }
@@ -182,34 +174,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b9a1a9829fb071e0",
+  "active": "0e505268a28cff5c",
   "lastOpenFiles": [
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
     "3-Way TCP handshake.md",
-    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
-    "Introdução a Computação/Tópicos.md",
-    "Pasted image 20240421171516.png",
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "K8s/Day 01/O que é um container.md",
     "K8s/Day 01",
-    "K8s/EXTERNAL SECRETS, KUBERNETES E HASHICORP VAULT.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "Redes Alura/Redes On-boarding Alura.md",
+    "Pasted image 20240421171516.png",
+    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
     "SS - Troubleshooting.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
@@ -232,8 +222,10 @@
     "TCP",
     "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+    "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
+    "Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+    "Untitled",
     "K8s",
-    "Introdução a Computação/Conceitos",
-    "Introdução a Computação"
+    "Introdução a Computação/Conceitos"
   ]
 }

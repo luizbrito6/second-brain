@@ -12,4 +12,7 @@ ip r
 ```
 #### Contexto do lab
 -------
-1. Por estar utilizando um debian é necessário configurar o ip das interfaces de rede que vão se comunicar diretamente com as Subnets que contém em cada uma, uma máquina
+1. Por estar utilizando um debian é necessário configurar o ip das interfaces de rede que vão se comunicar diretamente com as Subnets que contém em cada uma, uma máquina. Segue o comando para adicionar um IP em uma interface: 
+```
+sudo dhclient - <nome-interf>
+```

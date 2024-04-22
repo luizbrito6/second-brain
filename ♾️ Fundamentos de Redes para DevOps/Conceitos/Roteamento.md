@@ -17,4 +17,4 @@ ip r
 sudo dhclient -v <nome-interface>
 ```
 
-2. Com os IPs 
+2. Com os IPs baseado nas interfaces de rede no contexto do laboratório configurados, é necessário configurar rotas para ao chegar uma solicitaçã

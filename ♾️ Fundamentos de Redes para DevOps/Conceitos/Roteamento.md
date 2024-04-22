@@ -12,4 +12,4 @@ ip r
 ```
 #### Contexto do lab
 -------
-1. Por esta
+1. Por estar utilizando um debian é necessário configurar o ip das interfaces de rede que vão se comunicar diretamente com as Subnets que contém em cada uma, uma máquina

@@ -27,3 +27,4 @@ Legal, agora sabemos que o cliente-1 tem que se conectar ao router para chegar n
 ``` bash
 sudo tcpdump -i <interface-de-rede>
 ```
+Tá, mas um problema foi gerado, como a solicitação vai ser enviada pelo cliente-1, passar pelo router e vai chegar no 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md"
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5623df214dba0b8f",
+  "active": "52e06b9f75d521fb",
   "lastOpenFiles": [
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",

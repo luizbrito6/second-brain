@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md"
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "0e505268a28cff5c",
   "lastOpenFiles": [
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",

@@ -10,3 +10,6 @@ Para realizar essa comunicação entre redes vamos usar Rotas que podem ser visu
 ```bash
 ip r 
 ```
+#### Contexto do lab
+-------
+1. Por esta

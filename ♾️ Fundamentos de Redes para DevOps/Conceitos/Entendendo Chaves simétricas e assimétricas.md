@@ -1,4 +1,5 @@
--------------------
+	-------------------
+
 As chaves são relacionadas com o conceito de disponibilidade comentando acima e são elas responsáveis pela criptografia na rede, onde será, possível deixar nossos dados ilegíveis até eles serem traduzidos, existem dois tipos de chaves utilizadas em transações desse tipo com HTTP e TLS, no caso são simétricas e assimétricas.
 
 - Chave simétrica

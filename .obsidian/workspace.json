@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md"
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md"
               }
             }
           }
@@ -138,21 +138,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "0e505268a28cff5c",
   "lastOpenFiles": [
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
@@ -160,8 +162,6 @@
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "K8s/Day 01/O que é um container.md",
     "K8s/Day 01",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",

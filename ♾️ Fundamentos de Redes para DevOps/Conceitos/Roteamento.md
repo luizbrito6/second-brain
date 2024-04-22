@@ -28,3 +28,5 @@ Legal, agora sabemos que o cliente-1 tem que se conectar ao router para chegar n
 sudo tcpdump -i <interface-de-rede>
 ```
 Tá, mas um problema foi gerado, como a solicitação vai ser enviada pelo cliente-1, passar pelo router e vai chegar no cliente-2, é necessário configurar o router para lidar com esse cenário. O kernel do Linux não vem por padrão configurado para agir como roteador. 
+
+2^8 = 256 - 2 = 254

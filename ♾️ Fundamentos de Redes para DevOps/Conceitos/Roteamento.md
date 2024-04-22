@@ -22,4 +22,4 @@ sudo dhclient -v <nome-interface>
 ``` bash
 sudo ip route add <ip-destino> via <ip-router>
 ```
-Legal, agora sabemos que o cliente-1 tem que se conectar ao router para chegar no cliente-2 e também o contrário, em função disso após configurar as rotas é necessário ficar "e"
+Legal, agora sabemos que o cliente-1 tem que se conectar ao router para chegar no cliente-2 e também o contrário, em função disso após configurar as rotas é necessário ficar "escutando" no router as conexões que estão ocorrendo, importante lembrar que ainda não tem rotas no router para lidar com as requisições do cliente-1 e cliente-2.

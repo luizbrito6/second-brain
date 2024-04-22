@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "3-Way TCP handshake.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,8 +54,12 @@
             "id": "b9a1a9829fb071e0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3-Way TCP handshake.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -124,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-Way TCP handshake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-Way TCP handshake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3-Way TCP handshake.md"
+              }
             }
           }
         ]
@@ -183,6 +192,7 @@
   },
   "active": "b9a1a9829fb071e0",
   "lastOpenFiles": [
+    "3-Way TCP handshake.md",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Introdução a Computação/Tópicos.md",
     "Pasted image 20240421171516.png",
@@ -222,7 +232,6 @@
     "TCP",
     "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
-    "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "K8s",
     "Introdução a Computação/Conceitos",
     "Introdução a Computação"

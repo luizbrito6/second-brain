@@ -13,12 +13,12 @@ ip r
 -------
 1. Por estar utilizando um debian é necessário configurar o ip das interfaces de rede que vão se comunicar diretamente com as Subnets que contém em cada uma, uma máquina. Segue o comando para adicionar um IP em uma interface: 
 
-```
+``` bash
 sudo dhclient -v <nome-interface>
 ```
 
 2. Com os IPs baseado nas interfaces de rede no contexto do laboratório configurados, é necessário configurar rotas para ao chegar uma solicitação em um host x para um host y, passe pela máquina que está viabilizando a comunicação entre redes.  Por isso vamos configurar uma rota com o seguinte comando: 
 
 ``` bash
-ip route add <ip-destino> via <ip-router>
+sudo ip route add <ip-destino> via <ip-router>
 ```

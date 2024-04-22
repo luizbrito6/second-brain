@@ -5,4 +5,8 @@ Para iniciar esse conceito é importante entender o funcionamento de [[Subnets]]
 Em função disso precisamos de determinados dispositivos que conseguem realizar a comunicação entre as subnets quando necessário, daí vem o conceito de **roteamento**. 
 
 
-Para realizar essa comunicação entre redes vamos usar 
+Para realizar essa comunicação entre redes vamos usar Rotas que podem ser visualizadas em máquinas Linux com o seguinte comando: 
+
+```bash
+ip r 
+```

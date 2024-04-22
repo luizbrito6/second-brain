@@ -17,4 +17,4 @@ ip r
 sudo dhclient -v <nome-interface>
 ```
 
-2.
+2. Com os IPs 

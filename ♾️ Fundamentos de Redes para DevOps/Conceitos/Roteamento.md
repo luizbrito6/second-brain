@@ -31,6 +31,6 @@ sudo tcpdump -i <interface-de-rede>
 ```
 Rotas que vão ser configuradas: 
 
-Client-1: ip de destino sendo o client-2 enviar para a interface de rede do debian que está na mesma rede q
+Client-1: ip de destino sendo o client-2 enviar para a interface de rede do debian que está na mesma rede que o client-1
 
 		

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md"
+                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "52e06b9f75d521fb",
   "lastOpenFiles": [
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",

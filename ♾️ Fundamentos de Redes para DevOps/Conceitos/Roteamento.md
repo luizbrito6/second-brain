@@ -33,22 +33,6 @@ Rotas que vão ser configuradas:
 
 Client-1: ip de destino sendo o client-2 enviar para a interface de rede do debian que está na mesma rede que o client-1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Client-2: ip de destino sendo o ip do client-1 e o a via vai ter pela interfsace de rede 
+Client-2: ip de destino sendo o ip do client-1 e o a via vai ter pela interface de rede do router que está na mesma rede que o client-2 
 
 		

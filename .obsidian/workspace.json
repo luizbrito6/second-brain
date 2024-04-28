@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "64477a7bfb1e3223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leitura Artigo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leitura Artigo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leitura Artigo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leitura Artigo.md"
+              }
             }
           }
         ]
@@ -138,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52e06b9f75d521fb",
+  "active": "64477a7bfb1e3223",
   "lastOpenFiles": [
+    "Leitura Artigo.md",
+    "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
@@ -155,7 +174,6 @@
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
-    "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "Introdução a Computação/Day 01/O que é um container.md",
     "Introdução a Computação/Day 01",
@@ -179,7 +197,6 @@
     "TCP",
     "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "Fundamentos de Redes para DevOps/Conceitos/DNS.md",
-    "Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "Untitled",
     "K8s",
     "Introdução a Computação/Conceitos"

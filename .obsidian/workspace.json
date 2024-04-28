@@ -26,9 +26,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e51d7188469ff29",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leitura Artigo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leitura Artigo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leitura Artigo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64477a7bfb1e3223",
+  "active": "5e51d7188469ff29",
   "lastOpenFiles": [
     "Leitura Artigo.md",
     "Pasted image 20240421171516.png",

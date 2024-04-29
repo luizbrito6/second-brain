@@ -8,4 +8,10 @@
 
 Método recv: recebendo dados 
 Método send: enviado dados 
-Método
+Método bind: Informando o endereço 
+
+| Método |     |
+| ------ | --- |
+|        |     |
+
+Ao informar 

@@ -16,3 +16,5 @@ Ao inicializar o server com o AF_INET temos que informar qual tipo de conexão v
 >Acessar o manual de socket do linux para entender o método que identifica o protocolo de conexão. 
 
 1. Creating Socket na documentação 
+
+Ao inicializar o código temos que dizer ao linux que o arquivo vai ter que ser executado pelo python

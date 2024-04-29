@@ -17,4 +17,4 @@ Ao inicializar o server com o AF_INET temos que informar qual tipo de conexão v
 
 Ao inicializar o código temos que dizer ao linux que o arquivo vai ter que ser executado pelo python, o nome desse procedimento é **shebang line**, onde vamos dizer ao so qual o interpretador do arquivo. 
 
-O primeiro passo é instanciar a classe socket e nesse caso temos que passar por parâmetro a família e o tipo de conexão. Após isso vamos trabalhar com o método bind que precisa de um endereço e uim
+O primeiro passo é instanciar a classe socket e nesse caso temos que passar por parâmetro a família e o tipo de conexão. Após isso vamos trabalhar com o método bind que precisa de um endereço e uma porta, uma tupla que é nomeada adress na documentação; 

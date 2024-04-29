@@ -21,4 +21,4 @@ Ao inicializar o código temos que dizer ao linux que o arquivo vai ter que ser 
 
 O primeiro passo é instanciar a classe socket e nesse caso temos que passar por parâmetro a família e o tipo de conexão. Após isso vamos trabalhar com o método bind que precisa de um endereço e uma porta, uma tupla que é nomeada adress na documentação; 
 
-Agora vamos realizar a conexão de fato com o método accept, esse método depende d
+Agora vamos realizar a conexão de fato com o método accept, esse método depende de dois outros processos, a conexão disponibilizada pelo método bind que passa como endereço o ip e a porta onde vai ser possível se conetar e a chamada do método listen que vai inicializar a conexã

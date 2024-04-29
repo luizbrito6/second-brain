@@ -29,3 +29,9 @@ Agora vamos realizar a conexão de fato com o método accept, esse método depen
 ```bash
 chmod +x <arquivo.py>
 ```
+
+Tá agora a gente tem a porta disponibilizada para conexão e como podemos testar pra ver se tá tudo funcionando? Com os seguintes comando: 
+
+```bash
+
+```

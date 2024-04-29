@@ -32,6 +32,12 @@ chmod +x <arquivo.py>
 
 Tá agora a gente tem a porta disponibilizada para conexão e como podemos testar pra ver se tá tudo funcionando? Com os seguintes comando: 
 
+Para visualizar se o socket está disponível para conexões: 
 ```bash
+ss -ln | grep <porta>
+```
+
+Para fechar uma conexão com o socket disponibilizado: 
+```bash 
 
 ```

@@ -39,5 +39,5 @@ ss -ln | grep <porta>
 
 Para fechar uma conexão com o socket disponibilizado: 
 ```bash 
-
+nc -v localhost 3333
 ```

@@ -5,13 +5,9 @@
 
 > ***Vamos utilizar a lib socket do python e o primeiro processo importante é entender qual família vamos utilizar, nesse caso a de rede AF_INET, passando uma tupla com dois parâmetros (host, porta)***
 
-
-Método recv: recebendo dados 
-Método send: enviado dados 
-Método bind: Informando o endereço 
-
-| Método |     |
-| ------ | --- |
-|        |     |
-
-Ao informar 
+| Método | Função                 |
+| ------ | ---------------------- |
+| recv   | recebendo dados        |
+| send   | enviado dados          |
+| bind   | informando o endereço  |
+Ao inicializar o server com o AF_INET temos que infor

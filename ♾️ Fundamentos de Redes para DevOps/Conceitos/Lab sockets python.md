@@ -12,6 +12,6 @@
 | bind   | informando o endereço  |
 Ao inicializar o server com o AF_INET temos que informar qual tipo de conexão vai ser realizada 
 
-> [!man -k socket  man 2 socket]
+> [!SOCK_STREAM]
 >Acessar o manual de socket do linux para entender o método que identifica o protocolo de conexão. 
 

@@ -33,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
+                "file": "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
+                "file": "Leitura Artigo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
+                "file": "Leitura Artigo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md"
+                "file": "Leitura Artigo.md"
               }
             }
           }
@@ -167,19 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e51d7188469ff29",
+  "active": "64477a7bfb1e3223",
   "lastOpenFiles": [
+    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "Leitura Artigo.md",
     "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
-    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",

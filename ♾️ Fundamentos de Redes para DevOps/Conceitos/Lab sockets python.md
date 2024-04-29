@@ -26,3 +26,6 @@ Agora vamos realizar a conexão de fato com o método accept, esse método depen
 > [!Permissão de execução]
 > Como estamos trabalhando com linux é necessário que o usuário que estamos utilizando tenha nível de acesso para executar o arquivo, com isso vamos utilizar o chmod
 
+```bash
+chmod +x <arquivo.py>
+```

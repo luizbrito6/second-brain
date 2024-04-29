@@ -5,13 +5,13 @@
 
 > ***Vamos utilizar a lib socket do python e o primeiro processo importante é entender qual família vamos utilizar, nesse caso a de rede AF_INET, passando uma tupla com dois parâmetros (host, porta)***
 
-| Método | Função                |
-| ------ | --------------------- |
-| recv   | recebendo dados       |
-| send   | enviado dados         |
-| bind   | informando o endereço |
-| listen | aguando uma conexão   |
-| accept |                       |
+| Método | Função                                                                |
+| ------ | --------------------------------------------------------------------- |
+| recv   | recebendo dados                                                       |
+| send   | enviado dados                                                         |
+| bind   | informando o endereço                                                 |
+| listen | aguando uma conexão                                                   |
+| accept | retorna a conexão e o host que acessou a porta configurada no address |
 Ao inicializar o server com o AF_INET temos que informar qual tipo de conexão vai ser realizada 
 
 > [!SOCK_STREAM]
@@ -21,4 +21,4 @@ Ao inicializar o código temos que dizer ao linux que o arquivo vai ter que ser 
 
 O primeiro passo é instanciar a classe socket e nesse caso temos que passar por parâmetro a família e o tipo de conexão. Após isso vamos trabalhar com o método bind que precisa de um endereço e uma porta, uma tupla que é nomeada adress na documentação; 
 
-Agora vamos realizar a conexão de fato com o método accept 
+Agora vamos realizar a conexão de fato com o método accept, esse método depende d

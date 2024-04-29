@@ -10,4 +10,8 @@
 | recv   | recebendo dados        |
 | send   | enviado dados          |
 | bind   | informando o endereço  |
-Ao inicializar o server com o AF_INET temos que infor
+Ao inicializar o server com o AF_INET temos que informar qual tipo de conexão vai ser realizada 
+
+
+> [!NOTE]
+>Acessar o manual de socket do linux para entender como id

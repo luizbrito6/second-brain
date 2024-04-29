@@ -24,4 +24,5 @@ O primeiro passo é instanciar a classe socket e nesse caso temos que passar por
 Agora vamos realizar a conexão de fato com o método accept, esse método depende de dois outros processos, a conexão disponibilizada pelo método bind que passa como endereço o ip e a porta onde vai ser possível se conetar e a chamada do método listen que vai inicializar a conexão.
 
 > [!Permissão de execução]
-> Como estamos trabalhando com linux é necessário que o usuário que estamos ultilizando tenhja
+> Como estamos trabalhando com linux é necessário que o usuário que estamos utilizando tenha nível de acesso para executar o arquivo, com isso vamos utilizar o chmod
+

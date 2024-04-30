@@ -11,8 +11,12 @@
             "id": "d69e748ac3c72994",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 423.5
   },
   "right": {
     "id": "f2e744f67b40756f",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "d69e748ac3c72994",
   "lastOpenFiles": [
+    "Untitled.md",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "Exercícios Legais do Rey.md",
@@ -180,8 +189,7 @@
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "TCP",
-    "Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
-    "K8s",
+    "Descomplicando Kubernetes LinuxTips by Aquarela",
     "Introdução a Computação/Conceitos"
   ]
 }

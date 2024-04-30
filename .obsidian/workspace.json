@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d7c0854a13154fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
+                "file": "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
+                "file": "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md"
+                "file": "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c78c09eaa9278d86",
+  "active": "9d7c0854a13154fd",
   "lastOpenFiles": [
+    "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
+    "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
-    "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
@@ -203,7 +216,6 @@
     "SS - Troubleshooting.md",
     "♾️ Fundamentos de Redes para DevOps/Imagens/3-way-handshake-tcp.png",
     "TCP/IP.md",
-    "Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Redes Alura/Imagens/saida-dig.png",
     "Redes Alura/Imagens/mapa-traceroute.png",
     "Redes Alura/Imagens/arquivo-etc-hosts.png",

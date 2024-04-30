@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "O que é um container.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "O que é um container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "O que é um container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "O que é um container.md"
               }
             }
           }
@@ -148,7 +148,8 @@
   },
   "active": "d69e748ac3c72994",
   "lastOpenFiles": [
-    "Untitled.md",
+    "O que é um container.md",
+    "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "Exercícios Legais do Rey.md",
@@ -187,9 +188,7 @@
     "♾️ Fundamentos de Redes para DevOps/Conceitos",
     "♾️ Fundamentos de Redes para DevOps",
     "Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "TCP",
-    "Descomplicando Kubernetes LinuxTips by Aquarela",
-    "Introdução a Computação/Conceitos"
+    "Descomplicando Kubernetes LinuxTips by Aquarela"
   ]
 }

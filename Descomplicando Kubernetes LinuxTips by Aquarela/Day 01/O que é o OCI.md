@@ -1,2 +1,2 @@
 
-1. Trabalhando com 
+1. Trabalhando com padronizações

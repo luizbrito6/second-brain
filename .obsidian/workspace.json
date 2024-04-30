@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é um container.md",
+                "file": "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b3ca1c0332134e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é um container.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é um container.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é um container.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d69e748ac3c72994",
+  "active": "5b3ca1c0332134e6",
   "lastOpenFiles": [
-    "O que é um container.md",
+    "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
+    "Untitled.md",
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",

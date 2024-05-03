@@ -21,4 +21,4 @@ gcloud services enable artifactregistry.googleapis.com
 ```
 
 3.  Criar um repositório do Docker
-	Com a api do Artifact Registry ativada vamos criar o repositório onde vai ser armazenado a imagem do Docker que estamos 
+	Com a api do Artifact Registry ativada vamos criar o repositório onde vai ser armazenado a imagem do Docker que vamos trabalhar posteriormente, mais uma vez esse processo é possível tanto pelo painel seguindo pelo caminho: 

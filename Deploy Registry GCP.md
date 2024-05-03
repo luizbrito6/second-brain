@@ -47,6 +47,6 @@ gcloud artifacts repositories list \
 
 
 
-gcloud artifacts repositories create <nome-repositorio> --repository-format=docker \
-    --location=<local> --description="<Breve Descrição do Repositório>" \
-    --project=<id-projeto>
+gcloud artifacts repositories create teste-lab --repository-format=docker \
+    --location=us-central1 --description="Task SG Aquarela" \
+    --project=lab-artifact-registry

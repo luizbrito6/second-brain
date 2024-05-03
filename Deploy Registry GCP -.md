@@ -76,3 +76,4 @@ Sendo assim nosso comando fica da seguinte forma:
 ```
 docker tag <id-imagem-hello-world> us-central1-docker.pkg.dev/<id-projeto>/<nome-repositorio>/<nome-imagem>:<tag>
 ```
+**( ⚠️ Atenção substituir os valores entre <>)**

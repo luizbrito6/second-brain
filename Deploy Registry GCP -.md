@@ -79,4 +79,4 @@ docker tag <id-imagem-hello-world> us-central1-docker.pkg.dev/<id-projeto>/<nome
 **( ⚠️ Atenção substituir os valores entre <>)**
 
 
-docker tag d2c94e258dcb us-central1-docker.pkg.dev/<id-projeto>/<nome-repositorio>/<nome-imagem>:<tag>
+docker tag d2c94e258dcb us-central1-docker.pkg.dev/lab-artifact-registry/teste-/<nome-imagem>:<tag>

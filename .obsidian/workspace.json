@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leitura Artigo.md",
+                "file": "Deploy Registry GCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leitura Artigo.md",
+                "file": "Deploy Registry GCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leitura Artigo.md",
+                "file": "Deploy Registry GCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leitura Artigo.md"
+                "file": "Deploy Registry GCP.md"
               }
             }
           }
@@ -209,6 +209,8 @@
   },
   "active": "e5b0f0c0dadfe3f1",
   "lastOpenFiles": [
+    "Leitura Artigo.md",
+    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "Deploy Registry GCP.md",
     "Pasted image 20240503131817.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
@@ -221,7 +223,6 @@
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",
-    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "Exercícios Legais do Rey.md",
     "Algoritmos",
@@ -234,7 +235,6 @@
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
-    "Leitura Artigo.md",
     "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",

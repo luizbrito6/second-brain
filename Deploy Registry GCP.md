@@ -8,7 +8,6 @@ No painel do GCP vamos executar os comandos pelo Cloud Shell, onde vai ser provi
 No contexto dessa laboratório vamos realizar 6 passos: 
 
 Criar um projeto no Google Cloud Plataform 
-Criar um repositório particular do Docker no Artifact Registry
 Criar Criar um repositório do Docker usando o console do Cloud 
 Configurar a autenticação
 Enviar uma imagem para o repositório

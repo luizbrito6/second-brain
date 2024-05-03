@@ -24,7 +24,7 @@ gcloud services enable artifactregistry.googleapis.com
 	Com a api do Artifact Registry ativada vamos criar o repositório onde vai ser armazenado a imagem do Docker que vamos trabalhar posteriormente, mais uma vez esse processo é possível pelo painel ou por linha de comando. Aqui mais uma vez vamos seguir com o **Cloud Shell**: 
 
 
-Verificar se o Docker está sendo executado corretamente: 
+Verificar se o Docker está sendo executado corretamente no **Cloud Shell**: 
 ```
 docker run --rm busybox date
 ```

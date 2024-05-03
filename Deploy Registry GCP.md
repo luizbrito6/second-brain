@@ -29,10 +29,10 @@ Verificar se o Docker está sendo executado corretamente:
 docker run --rm busybox date
 ```
 
-Comando para criar o repositório: 
+Comando para criar o repositório (Atenção substituir os valores entre <>): 
 ```
-gcloud artifacts repositories create **<nome-repositorio>** --repository-format=docker \
-    --location=**<local>** --description="<Breve Descrição do Repositório>" \
+gcloud artifacts repositories create <nome-repositorio> --repository-format=docker \
+    --location=<local> --description="<Breve Descrição do Repositório>" \
     --project=<id-projeto>
 ```
 

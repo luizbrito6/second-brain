@@ -62,4 +62,8 @@ gcloud auth configure-docker \ us-central1-docker.pkg.dev
 ![[Pasted image 20240503143855.png]]
 
 6. **Marcar a imagem do repositório**
-	 Aqui vamos trocar a imagem a tag da imagem para conseguir re
+	 Aqui vamos trocar a imagem a tag da imagem para conseguir realizar o pull no  Artifact Registry, vamos começar com o comando docker tag que funciona da seguinte forma: 
+
+```
+docker tag 
+```

@@ -20,7 +20,7 @@ Em que PROJECT_ID é o código do projeto que você quer criar. Um ID do projeto
 gcloud services enable artifactregistry.googleapis.com
 ```
 
-3.  Criar um repositório do Docker
+3.  **Criar um repositório do Docker**
 	Com a api do Artifact Registry ativada vamos criar o repositório onde vai ser armazenado a imagem do Docker que vamos trabalhar posteriormente, mais uma vez esse processo é possível pelo painel ou por linha de comando. Aqui mais uma vez vamos seguir com o **Cloud Shell**: 
 
 
@@ -46,5 +46,6 @@ gcloud artifacts repositories list \
 >É possível visualizar no painel inicial clicando no botão do canto superior esquerdo e também com o comando  **gcloud projects list**
 
 Saída esperada do comando de verificação: 
-
 ![[Pasted image 20240503142330.png]]
+
+4. Configurar autenticação 

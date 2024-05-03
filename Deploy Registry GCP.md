@@ -57,4 +57,4 @@ gcloud auth configure-docker \ us-central1-docker.pkg.dev
 ⚠️ Nesse caso estou usando o local us-central1
 
 5. Acessar uma imagem para enviar
-	 Nessa etapa vou utilizar iuma
+	 Nessa etapa vou utilizar uma imagem de hello-world para exemplificar, porém em ambiente real precisamos configurar o dockerfile, realizar o build da imagem e  

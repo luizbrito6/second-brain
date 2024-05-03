@@ -65,5 +65,8 @@ gcloud auth configure-docker \ us-central1-docker.pkg.dev
 	 Aqui vamos trocar a imagem a tag da imagem para conseguir realizar o pull no  Artifact Registry, vamos começar com o comando docker tag que funciona da seguinte forma: 
 
 ```
-docker tag 
+docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
 ```
+
+- `SOURCE_IMAGE[:TAG]`: Esta é a imagem que você deseja marcar. Você pode opcionalmente incluir uma `TAG` existente.
+- `TARGET_IMAGE[:TAG]`: Este é o novo nome (e opcionalmente a tag) que você deseja aplicar à imagem.

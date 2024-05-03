@@ -47,3 +47,6 @@ gcloud artifacts repositories list \
 
 
 
+gcloud artifacts repositories create <nome-repositorio> --repository-format=docker \
+    --location=<local> --description="<Breve Descrição do Repositório>" \
+    --project=<id-projeto>

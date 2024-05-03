@@ -30,3 +30,8 @@ docker run --rm busybox date
 ```
 
 Comando para criar o repositório: 
+```
+gcloud artifacts repositories create <nome-repositorio> --repository-format=docker \
+    --location=us-central1 --description="<Breve Descrição d>" \
+    --project=PROJECT
+```

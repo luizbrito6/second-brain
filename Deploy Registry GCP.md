@@ -49,3 +49,9 @@ Saída esperada do comando de verificação:
 ![[Pasted image 20240503142330.png]]
 
 4. Configurar autenticação 
+	 Antes de enviar ou extrair imagens, configure o Docker para usar a **Cloud Shell** `gcloud` CLI e solicitações de autenticação para **Artifact Registry**. Para configurar a autenticação nos repositórios do Docker na região `us-central1`, execute o seguinte comando no **Cloud Shell**:
+
+```
+gcloud auth configure-docker \ us-central1-docker.pkg.dev
+```
+

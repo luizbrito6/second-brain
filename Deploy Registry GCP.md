@@ -36,5 +36,10 @@ gcloud artifacts repositories create <nome-repositorio> --repository-format=dock
     --project=<id-projeto>
 ```
 
-Verificando 
+Verificando se o repositório foi criado com o seguinte comando: 
+```
+gcloud artifacts repositories list \
+    --project=<id-projeto>
+```
+
 

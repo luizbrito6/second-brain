@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy Registry GCP.md",
+                "file": "Leitura Artigo.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy Registry GCP.md",
+                "file": "Leitura Artigo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy Registry GCP.md",
+                "file": "Leitura Artigo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy Registry GCP.md"
+                "file": "Leitura Artigo.md"
               }
             }
           }
@@ -209,9 +209,9 @@
   },
   "active": "e5b0f0c0dadfe3f1",
   "lastOpenFiles": [
+    "Deploy Registry GCP.md",
     "Pasted image 20240503131817.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
-    "Deploy Registry GCP.md",
     "Untitled",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",

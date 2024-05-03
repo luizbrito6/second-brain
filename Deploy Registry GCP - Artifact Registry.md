@@ -74,10 +74,10 @@ docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
 Sendo assim nosso comando fica da seguinte forma: 
 
 ```
-docker tag <id-imagem-local> 
+docker tag <id-imagem-local> us-central1-docker.pkg.dev/<id-projeto>/<id-repositorio>/<nome-imagem>:1.0
 ```
 **( ⚠️ Atenção substituir os valores entre <>)**
 
 
 7. **Envie a imagem para o Artifact Registry**
-	Aqui finalmente vamos realizar o último pas
+	Aqui finalmente vamos realizar o último passo, no caso enviar nossa imagem com a tag do 

@@ -43,5 +43,7 @@ gcloud artifacts repositories list \
 ```
 
 > [!Id do projeto]
->É possível visualizar no painel inicial clicando no botão do canto superior esquerdo e também com o comando
+>É possível visualizar no painel inicial clicando no botão do canto superior esquerdo e também com o comando  **gcloud projects list**
+
+
 

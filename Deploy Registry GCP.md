@@ -8,6 +8,7 @@ Para começar essa documentação é importante frisar o ambiente onde vai ser e
 	Necessário ter um projeto para realizar o procedimento no caso aqui vou criar com o seguinte comando: 
 
 ```
-
+gcloud projects create PROJECT_ID
 ```
 
+O 

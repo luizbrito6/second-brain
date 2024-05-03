@@ -56,3 +56,5 @@ gcloud auth configure-docker \ us-central1-docker.pkg.dev
 ```
 ⚠️ Nesse caso estou usando o local us-central1
 
+5. Acessar uma imagem para enviar
+	 Nessa etapa vou utilizar iuma

@@ -72,3 +72,7 @@ docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
 - `TARGET_IMAGE[:TAG]`: Este é o novo nome (e opcionalmente a tag) que você deseja aplicar à imagem.
 
 Sendo assim nosso comando fica da seguinte forma: 
+
+```
+docker tag <id-imagem-hello-world> 
+```

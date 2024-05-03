@@ -74,7 +74,7 @@ docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
 Sendo assim nosso comando fica da seguinte forma: 
 
 ```
-docker tag 
+docker tag <id-imagem-local> 
 ```
 **( ⚠️ Atenção substituir os valores entre <>)**
 

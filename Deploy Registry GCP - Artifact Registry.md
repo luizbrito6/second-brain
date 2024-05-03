@@ -79,4 +79,6 @@ docker tag <id-imagem-local>
 **( ⚠️ Atenção substituir os valores entre <>)**
 
 
-7. 
+
+
+us-central1-docker.pkg.dev/lab-artifact-registry/teste-lab/hello-world:1.0

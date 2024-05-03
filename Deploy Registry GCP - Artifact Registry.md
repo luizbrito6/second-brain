@@ -80,4 +80,9 @@ docker tag <id-imagem-local> us-central1-docker.pkg.dev/<id-projeto>/<id-reposit
 
 
 7. **Envie a imagem para o Artifact Registry**
-	Aqui finalmente vamos realizar o último passo, no caso enviar nossa imagem com a tag do 
+	Aqui finalmente vamos realizar o último passo, no caso enviar nossa imagem para o Artifact Registry com o comando docker push: 
+
+```
+docker push us-central1-docker.pkg.dev/<id-projeto>/<id-repositorio>/<nome-imagem>:1.0
+```
+

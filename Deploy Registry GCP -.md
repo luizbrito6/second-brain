@@ -70,3 +70,5 @@ docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
 
 - `SOURCE_IMAGE[:TAG]`: Esta é a imagem que você deseja marcar. Você pode opcionalmente incluir uma `TAG` existente.
 - `TARGET_IMAGE[:TAG]`: Este é o novo nome (e opcionalmente a tag) que você deseja aplicar à imagem.
+
+Sendo assim nosso comando fica da seguinte forma: 

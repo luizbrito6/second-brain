@@ -79,6 +79,5 @@ docker tag <id-imagem-local>
 **( ⚠️ Atenção substituir os valores entre <>)**
 
 
-
-
-us-central1-docker.pkg.dev/lab-artifact-registry/teste-lab/hello-world:1.0
+7. **Envie a imagem para o Artifact Registry**
+	Aqui finalmente vamos realizar o último pas

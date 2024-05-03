@@ -4,7 +4,7 @@ Para começar essa documentação é importante frisar o ambiente onde vai ser e
 
 No painel do GCP vamos executar os comandos pelo Cloud Shell, onde vai ser provisionando o ambiente para conseguirmos realizar os comandos necessários nesse laboratório: 
 
-![[Pasted image 20240503131817.png]]
+
 No contexto dessa laboratório vamos realizar 6 passos: 
 
 Criar um projeto no Google Cloud Plataform 

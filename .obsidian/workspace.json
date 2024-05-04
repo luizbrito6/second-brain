@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🪐 AWS Solution Architect/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪐 AWS Solution Architect/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪐 AWS Solution Architect/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪐 AWS Solution Architect/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md"
+                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md"
               }
             }
           }
@@ -146,20 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73d97b103a34dca6",
+  "active": "5623df214dba0b8f",
   "lastOpenFiles": [
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
-    "🪐 AWS Solution Architect/Imagens/fluxo-treinamento.png",
-    "🪐 AWS Solution Architect/Imagens",
-    "🪐 AWS Solution Architect/Panorama Geral.md",
-    "🪐 AWS Solution Architect/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
+    "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
+    "🪐 AWS Solution Architect by Aquarela/Imagens",
+    "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
+    "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
     "README.md",
-    "🪐 AWS Solution Architect/Conceitos",
-    "🪐 AWS Solution Architect",
+    "🪐 AWS Solution Architect by Aquarela/Conceitos",
+    "🪐 AWS Solution Architect by Aquarela",
     "Leitura Artigo.md",
     "Pasted image 20240503142330.png",
     "Pasted image 20240503142212.png",

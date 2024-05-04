@@ -2,3 +2,4 @@
 - [ ] Funcionamento da infraestrutura global da AWS 
 	- [ ] Data Centers 
 	- [ ] Regiões 
+	- [ ] Zonas de disponibilidade 

@@ -6,6 +6,8 @@
 	- [ ] Local Zones 
 	- [ ] Edge Locations 
 - [ ] AWS Well Architected Framework
+	- [ ] Segurança
+	- [ ] Otimização de custos 
 	- [ ] 
 
 

@@ -1,1 +1,2 @@
-- [ ] Benefícios da utilização da AWS 
+- [ ] Benefícios da utilização da AWS
+- [ ] Funcionamento da infraestrutura global da AWS 

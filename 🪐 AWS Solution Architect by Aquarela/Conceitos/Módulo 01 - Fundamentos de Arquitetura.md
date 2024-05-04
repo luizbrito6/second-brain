@@ -3,6 +3,7 @@
 	- [ ] Data Centers 
 	- [ ] Regiões 
 	- [ ] Zonas de disponibilidade 
+	- [ ] Local Zones 
 
 
 > Com relação a alta disponibilidade funciona sempre em 

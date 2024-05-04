@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "890e05ff1bdb47f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Módulo 02 - Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
+                "file": "Módulo 02 - Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
+                "file": "Módulo 02 - Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md"
+                "file": "Módulo 02 - Security.md"
               }
             }
           }
@@ -159,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c203595b2b7b866a",
+  "active": "890e05ff1bdb47f1",
   "lastOpenFiles": [
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+    "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
+    "Módulo 02 - Security.md",
     "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
@@ -170,7 +184,6 @@
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
     "🪐 AWS Solution Architect by Aquarela/Imagens",
-    "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
     "README.md",
     "🪐 AWS Solution Architect by Aquarela/Conceitos",
     "🪐 AWS Solution Architect by Aquarela",

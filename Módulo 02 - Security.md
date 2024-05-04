@@ -6,5 +6,5 @@
 		- [ ] SDK
 		- [ ] CLI
 	- [ ] User Groups 
-	- [ ] IMA Roles
+	- [ ] Roles
 		

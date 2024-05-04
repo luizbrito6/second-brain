@@ -5,7 +5,7 @@
 	- [ ] Zonas de disponibilidade 
 	- [ ] Local Zones 
 	- [ ] Edge Locations 
-- [ ] AWS Well-A
+- [ ] AWS Well Architected Framework
 
 
 > Com relação a alta disponibilidade funciona sempre em um cenário ativo-passivo no caso de um servidor por exemplo cair assume o que está em outra zona de disponibilidade, ou tem caso de serviços específicos que funcionam em paralelo?

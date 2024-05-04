@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🪐 AWS Solution Architect/Panorama Geral.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪐 AWS Solution Architect/Panorama Geral.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪐 AWS Solution Architect/Panorama Geral.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪐 AWS Solution Architect/Panorama Geral.md"
+                "file": "README.md"
               }
             }
           }
@@ -209,10 +209,10 @@
   },
   "active": "5623df214dba0b8f",
   "lastOpenFiles": [
+    "🪐 AWS Solution Architect/Panorama Geral.md",
     "🪐 AWS Solution Architect/Conceitos",
     "🪐 AWS Solution Architect",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
-    "🪐 AWS Solution Architect/Panorama Geral.md",
     "Leitura Artigo.md",
     "Pasted image 20240503142330.png",
     "Pasted image 20240503142212.png",
@@ -244,7 +244,7 @@
     "Pasted image 20240421171516.png",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
-    "🤖 Introdução a Computação/Day 01",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01 1",
     "⚙️ Fundamentos de Redes para DevOps/Imagens/3-way-handshake-tcp.png",
     "🌐 Redes Alura/Imagens/saida-dig.png",
     "🌐 Redes Alura/Imagens/mapa-traceroute.png",
@@ -253,7 +253,6 @@
     "🌐 Redes Alura",
     "⚙️ Fundamentos de Redes para DevOps/Imagens",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos",
-    "⚙️ Fundamentos de Redes para DevOps",
-    "TCP"
+    "⚙️ Fundamentos de Redes para DevOps"
   ]
 }

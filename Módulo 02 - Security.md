@@ -1,8 +1,9 @@
 --------
 
 - [ ] IAM
-	- [ ] Policy 
+	- [ ] Policies
 	- [ ] Autenticação 
 		- [ ] SDK
 		- [ ] CLI
-
+	- [ ] User Groups 
+		

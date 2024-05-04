@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "🪐 AWS Solution Architect/Panorama Geral.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🪐 AWS Solution Architect/Panorama Geral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🪐 AWS Solution Architect/Panorama Geral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🪐 AWS Solution Architect/Panorama Geral.md"
               }
             }
           }
@@ -207,8 +207,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5623df214dba0b8f",
+  "active": "31987f639a53aa68",
   "lastOpenFiles": [
+    "README.md",
     "🪐 AWS Solution Architect/Panorama Geral.md",
     "🪐 AWS Solution Architect/Conceitos",
     "🪐 AWS Solution Architect",

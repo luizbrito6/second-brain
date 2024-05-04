@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c203595b2b7b866a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5623df214dba0b8f",
+  "active": "c203595b2b7b866a",
   "lastOpenFiles": [
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+    "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
@@ -156,7 +171,6 @@
     "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
     "🪐 AWS Solution Architect by Aquarela/Imagens",
     "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
-    "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
     "README.md",
     "🪐 AWS Solution Architect by Aquarela/Conceitos",
     "🪐 AWS Solution Architect by Aquarela",
@@ -168,7 +182,6 @@
     "Pasted image 20240503143855.png",
     "Pasted image 20240503140944.png",
     "⚙️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",

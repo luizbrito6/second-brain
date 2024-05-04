@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "e5b0f0c0dadfe3f1",
+            "id": "31987f639a53aa68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leitura Artigo.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leitura Artigo.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leitura Artigo.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leitura Artigo.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -207,18 +207,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b0f0c0dadfe3f1",
+  "active": "5623df214dba0b8f",
   "lastOpenFiles": [
-    "Pasted image 20240503142330.png",
+    "AWS Solu",
+    "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+    "Untitled.md",
     "Leitura Artigo.md",
+    "Pasted image 20240503142330.png",
     "Pasted image 20240503142212.png",
     "Pasted image 20240503131817.png",
     "Deploy Registry GCP - Artifact Registry.md",
     "Pasted image 20240503143855.png",
     "Pasted image 20240503140944.png",
     "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
-    "Untitled",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
@@ -228,7 +229,7 @@
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
     "Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
-    "Exercícios Legais do Rey.md",
+    "Algoritmos/Exercícios Legais do Rey.md",
     "Algoritmos",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
@@ -242,7 +243,6 @@
     "Pasted image 20240421171516.png",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
-    "Introdução a Computação/Day 01/O que é um container.md",
     "Introdução a Computação/Day 01",
     "♾️ Fundamentos de Redes para DevOps/Imagens/3-way-handshake-tcp.png",
     "Redes Alura/Imagens/saida-dig.png",

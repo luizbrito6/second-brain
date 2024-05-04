@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 02 - Security.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 02 - Security.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 02 - Security.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 02 - Security.md"
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   "active": "5623df214dba0b8f",
   "lastOpenFiles": [
     "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
-    "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 02 - Security.md",
-    "🪐 AWS Solution Architect by Aquarela/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
+    "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
+    "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 01 - Fundamentos de Arquitetura.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
@@ -185,7 +185,7 @@
     "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
     "🪐 AWS Solution Architect by Aquarela/Imagens",
     "README.md",
-    "🪐 AWS Solution Architect by Aquarela/Conceitos",
+    "🪐 AWS Solution Architect by Aquarela/Módulos",
     "🪐 AWS Solution Architect by Aquarela",
     "Leitura Artigo.md",
     "Pasted image 20240503142330.png",

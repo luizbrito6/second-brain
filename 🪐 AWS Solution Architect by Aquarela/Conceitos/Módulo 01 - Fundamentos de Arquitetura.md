@@ -7,4 +7,4 @@
 	- [ ] Edge Locations 
 
 
-> Com relação a alta disponibilidade funciona sempre em 
+> Com relação a alta disponibilidade funciona sempre em um cenário ativo-passivo no caso de um servidor por exemplo c

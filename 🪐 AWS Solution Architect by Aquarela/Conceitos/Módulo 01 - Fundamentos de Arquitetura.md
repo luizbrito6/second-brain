@@ -8,7 +8,11 @@
 - [ ] AWS Well Architected Framework
 	- [ ] Segurança
 	- [ ] Otimização de custos 
-	- [ ] 
+	- [ ] Confiabilidade
+	- [ ] Performance 
+	- [ ] Excelência Operacional 
+	
+	- [ ] Sustentabilidade 
 
 
 > Com relação a alta disponibilidade funciona sempre em um cenário ativo-passivo no caso de um servidor por exemplo cair assume o que está em outra zona de disponibilidade, ou tem caso de serviços específicos que funcionam em paralelo?

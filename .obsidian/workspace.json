@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
+                "file": "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
+                "file": "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
+                "file": "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
+                "file": "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,7 +211,7 @@
   "lastOpenFiles": [
     "🪐 AWS Solution Architect/Conceitos",
     "🪐 AWS Solution Architect",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "🪐 AWS Solution Architect/Panorama Geral.md",
     "Leitura Artigo.md",
     "Pasted image 20240503142330.png",
@@ -220,40 +220,40 @@
     "Deploy Registry GCP - Artifact Registry.md",
     "Pasted image 20240503143855.png",
     "Pasted image 20240503140944.png",
-    "♾️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
-    "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
-    "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
-    "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
-    "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
-    "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
-    "☸️ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
+    "⚙️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
+    "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
+    "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
+    "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
+    "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
+    "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
+    "☸ Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "Algoritmos/Exercícios Legais do Rey.md",
     "Algoritmos",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
     "Pasted image 20240421171516.png",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
-    "Introdução a Computação/Day 01",
-    "♾️ Fundamentos de Redes para DevOps/Imagens/3-way-handshake-tcp.png",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+    "🤖 Introdução a Computação/Day 01",
+    "⚙️ Fundamentos de Redes para DevOps/Imagens/3-way-handshake-tcp.png",
     "Redes Alura/Imagens/saida-dig.png",
     "Redes Alura/Imagens/mapa-traceroute.png",
     "Redes Alura/Imagens/arquivo-etc-hosts.png",
     "Redes Alura/Imagens",
     "Redes Alura",
-    "♾️ Fundamentos de Redes para DevOps/Imagens",
-    "♾️ Fundamentos de Redes para DevOps/Conceitos",
-    "♾️ Fundamentos de Redes para DevOps",
+    "⚙️ Fundamentos de Redes para DevOps/Imagens",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos",
+    "⚙️ Fundamentos de Redes para DevOps",
     "TCP"
   ]
 }

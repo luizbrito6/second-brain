@@ -4,6 +4,7 @@
 	- [ ] Regiões 
 	- [ ] Zonas de disponibilidade 
 	- [ ] Local Zones 
+	- [ ] Edge Locations 
 
 
 > Com relação a alta disponibilidade funciona sempre em 

@@ -4,81 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c81db6117364804c",
+        "id": "a050e4d29da3f1ae",
         "type": "tabs",
         "children": [
           {
-            "id": "d69e748ac3c72994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b3ca1c0332134e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c78c09eaa9278d86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d7c0854a13154fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f02cb19fd6d26979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31987f639a53aa68",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "fluxo-treinamento.png"
-              }
-            }
-          },
-          {
-            "id": "d41a2ee2b3ace162",
+            "id": "73d97b103a34dca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fluxo-treinamento.png",
+                "file": "🪐 AWS Solution Architect/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fluxo-treinamento.png",
+                "file": "🪐 AWS Solution Architect/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fluxo-treinamento.png"
+                "file": "🪐 AWS Solution Architect/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md"
               }
             }
           }
@@ -217,16 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5623df214dba0b8f",
+  "active": "73d97b103a34dca6",
   "lastOpenFiles": [
-    "Imagens",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+    "🪐 AWS Solution Architect/Imagens/fluxo-treinamento.png",
+    "🪐 AWS Solution Architect/Imagens",
     "🪐 AWS Solution Architect/Panorama Geral.md",
-    "fluxo-treinamento.png",
     "🪐 AWS Solution Architect/Conceitos/Módulo 01 - Fundamentos de Arquitetura.md",
     "README.md",
     "🪐 AWS Solution Architect/Conceitos",
     "🪐 AWS Solution Architect",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "Leitura Artigo.md",
     "Pasted image 20240503142330.png",
     "Pasted image 20240503142212.png",
@@ -237,11 +170,7 @@
     "⚙️ Fundamentos de Redes para DevOps/Fundamentos de Redes para DevOps.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "⚡ Algoritmos/Exercícios Legais do Rey.md",
@@ -263,7 +192,6 @@
     "🌐 Redes Alura/Imagens",
     "🌐 Redes Alura",
     "⚙️ Fundamentos de Redes para DevOps/Imagens",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos",
-    "⚙️ Fundamentos de Redes para DevOps"
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos"
   ]
 }

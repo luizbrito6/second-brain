@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a050e4d29da3f1ae",
+        "id": "b92198dccd48dec7",
         "type": "tabs",
         "children": [
           {
-            "id": "73d97b103a34dca6",
+            "id": "8b46876beef0f8a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbd5def278da659d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23324b8eccb5d253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Firewall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "577d10765791c757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "289dd20ef70ba194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bb5d4add6b0070a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c203595b2b7b866a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "890e05ff1bdb47f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌐 Redes Alura/Redes On-boarding Alura.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 420.5
   },
   "right": {
     "id": "f2e744f67b40756f",
@@ -170,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -233,19 +140,22 @@
   },
   "active": "5623df214dba0b8f",
   "lastOpenFiles": [
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Subnets.md",
+    "Untitled",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Firewall.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
+    "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
+    "🌐 Redes Alura/Redes On-boarding Alura.md",
+    "🪐 AWS Solution Architect by Aquarela/Udemy",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Subnets.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ IP Tables.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ ICMP.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Firewall.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Broadcast.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Bridge.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ ARP.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
     "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "🌐 Redes Alura/Redes On-boarding Alura.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
@@ -257,8 +167,6 @@
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/MTR.md",
-    "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
     "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
     "🪐 AWS Solution Architect by Aquarela/Imagens",
     "🪐 AWS Solution Architect by Aquarela/Módulos",
@@ -277,7 +185,6 @@
     "🌐 Redes Alura/Imagens/mapa-traceroute.png",
     "🌐 Redes Alura/Imagens",
     "🌐 Redes Alura",
-    "⚙️ Fundamentos de Redes para DevOps/Imagens",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos"
+    "⚙️ Fundamentos de Redes para DevOps/Imagens"
   ]
 }

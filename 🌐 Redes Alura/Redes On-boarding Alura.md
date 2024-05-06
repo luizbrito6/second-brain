@@ -57,7 +57,7 @@ Para fazer um teste de resolução de nomes locais podemos realizar uma modifica
 -------
 Primeiro ponto que eu achei interessante, ao "pingar" entre redes diferentes a gente vai ter a ação do roteador, porém ao pingar entre hosts que estão na mesma rede não tem ação do mesmo. 
 
-Com ping utilizamos o protocolo [[ICMP]] e com traceroute podemos investigar de forma mais profunda definindo o protocolo. Outro ponto importante é que ao pingar em um host e ele retornar ou não algo não significa que um site está no ar, pode ser um diagnóstico precipitado, pois pode ser somente um bloqueio desse protocolo no firewall. 
+Com ping utilizamos o protocolo [[❌ ICMP]] e com traceroute podemos investigar de forma mais profunda definindo o protocolo. Outro ponto importante é que ao pingar em um host e ele retornar ou não algo não significa que um site está no ar, pode ser um diagnóstico precipitado, pois pode ser somente um bloqueio desse protocolo no firewall. 
 
 O legal desse comando traceroute (tracert no windows) é que podemos mapear em quais partes do mundo nosso pacotes estão transitando, por quantos roteadores temos que passar para que nossa solicitação cliente chegue até o servidor que vai prover nosso dado necessário. 
 

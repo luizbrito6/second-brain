@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md"
+                "file": "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md"
               }
             }
           }
@@ -185,6 +185,8 @@
   },
   "active": "dbd5def278da659d",
   "lastOpenFiles": [
+    "⚡ Algoritmos/Exercícios Legais do Rey.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCPDUMP.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
@@ -215,13 +217,11 @@
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
-    "⚡ Algoritmos/Exercícios Legais do Rey.md",
     "⚡ Algoritmos",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Subnets.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "Pasted image 20240421171516.png",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01 1",
     "⚙️ Fundamentos de Redes para DevOps/Imagens/3-way-handshake-tcp.png",

@@ -1,1 +1,3 @@
-  
+O arp é o que explica a comunicação entre hosts em uma lan de forma que não precise de um roteador realizando o controle do tráfego. Seu funcionamento é basicamente uma tabela que vai realizar o controle com chave e valor, parecido com o mongo, ou seja, o a chave vai ser o Mac do dispositivo e o valor vai ser o IP do dispositivo. 
+
+o seu funcionamento é um pouco complexo, ele vai utilizar o broadcast da rede para realizar a comunicação inicial (quando a tabela tá vazia) e nisso ele vai literalmente realizar a seguinte pergunta: "Pessoal eu sou o IP X com o mac X, quem é o IP y?" Com essa pergunta ele vai passar pelos hosts e vai chegar no IP que eles está buscando e assim vai ser possível realizar a comunicação na rede local sem precisar de um roteador. 

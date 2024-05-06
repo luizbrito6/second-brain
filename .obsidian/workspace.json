@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 240.5
   },
   "right": {
     "id": "f2e744f67b40756f",
@@ -231,7 +231,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bb5d4add6b0070a",
+  "active": "5623df214dba0b8f",
   "lastOpenFiles": [
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Subnets.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md",

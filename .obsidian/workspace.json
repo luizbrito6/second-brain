@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/Firewall.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/IP Tables.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/IP Tables.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/IP Tables.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/IP Tables.md"
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md"
               }
             }
           }
@@ -209,39 +209,39 @@
   },
   "active": "577d10765791c757",
   "lastOpenFiles": [
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Firewall.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/IP Tables.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCPDUMP.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/MTR.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Subnets.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Firewall.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Broadcast.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ IP Tables.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/MTR.md",
     "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
     "⚡ Algoritmos/Exercícios Legais do Rey.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
     "🌐 Redes Alura/Redes On-boarding Alura.md",
     "Pasted image 20240421171516.png.md",
     "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
     "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 01 - Fundamentos de Arquitetura.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
     "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
     "🪐 AWS Solution Architect by Aquarela/Imagens",
-    "README.md",
     "🪐 AWS Solution Architect by Aquarela/Módulos",
     "🪐 AWS Solution Architect by Aquarela",
-    "Leitura Artigo.md",
     "Pasted image 20240503142330.png",
     "Pasted image 20240503142212.png",
     "Pasted image 20240503131817.png",
-    "Deploy Registry GCP - Artifact Registry.md",
     "Pasted image 20240503143855.png",
     "Pasted image 20240503140944.png",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01",

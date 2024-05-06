@@ -35,8 +35,12 @@
             "id": "890e05ff1bdb47f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md"
+              }
             }
           }
         ]
@@ -165,6 +173,7 @@
   },
   "active": "890e05ff1bdb47f1",
   "lastOpenFiles": [
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
     "Pasted image 20240421171516.png.md",
     "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
     "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
@@ -201,7 +210,6 @@
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Broadcast.md",
     "Pasted image 20240421171516.png",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01 1",
     "⚙️ Fundamentos de Redes para DevOps/Imagens/3-way-handshake-tcp.png",

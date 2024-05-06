@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md"
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md"
               }
             }
           }
@@ -233,17 +233,21 @@
   },
   "active": "0bb5d4add6b0070a",
   "lastOpenFiles": [
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Subnets.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ IP Tables.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ ICMP.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Firewall.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Broadcast.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Bridge.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ ARP.md",
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
+    "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Bridge.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ ICMP.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ ARP.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Broadcast.md",
     "🌐 Redes Alura/Redes On-boarding Alura.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Roteamento.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Subnets.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Objetivos básicos de segurança em redes.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Lab sockets python.md",
@@ -251,14 +255,10 @@
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ NAT.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Firewall.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/3-Way TCP handshake.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ IP Tables.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/MTR.md",
     "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
-    "⚡ Algoritmos/Exercícios Legais do Rey.md",
     "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
     "🪐 AWS Solution Architect by Aquarela/Imagens",
     "🪐 AWS Solution Architect by Aquarela/Módulos",

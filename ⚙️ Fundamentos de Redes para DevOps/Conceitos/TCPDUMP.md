@@ -1,0 +1,1 @@
+- [ ] Visualizando o funcionamento da conexão tcp-ip 

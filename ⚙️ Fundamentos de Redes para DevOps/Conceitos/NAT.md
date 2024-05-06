@@ -1,2 +1,3 @@
 
-- [ ] O que é o NAT VB 
+- [ ] O que é o NAT? 
+- [ ] 

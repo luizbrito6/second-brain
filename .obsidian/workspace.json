@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌐 Redes Alura/Redes On-boarding Alura.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌐 Redes Alura/Redes On-boarding Alura.md",
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐 Redes Alura/Redes On-boarding Alura.md"
+                "file": "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md"
               }
             }
           }
@@ -171,14 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "890e05ff1bdb47f1",
+  "active": "73d97b103a34dca6",
   "lastOpenFiles": [
+    "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
+    "🌐 Redes Alura/Redes On-boarding Alura.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/NAT.md",
     "Pasted image 20240421171516.png.md",
     "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
     "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
     "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 01 - Fundamentos de Arquitetura.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/DNS.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
@@ -209,7 +209,6 @@
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Modelo OSI.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HandShake.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Entendendo Chaves simétricas e assimétricas.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/Cookies.md",
     "Pasted image 20240421171516.png",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01 1",
     "⚙️ Fundamentos de Redes para DevOps/Imagens/3-way-handshake-tcp.png",

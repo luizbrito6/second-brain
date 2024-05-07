@@ -1,1 +1,1 @@
-- [ ] Etcd 
+- [ ] Etcd (cérebro)+

@@ -1,1 +1,2 @@
-- [ ] Etcd (cérebro)+
+- [ ] Etcd (cérebro)
+- [ ] Kube API server 

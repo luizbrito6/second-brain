@@ -6,4 +6,4 @@
 4. O que são os namespaces do kernel? 
 
 
-U m,
+Um container é o de forma direta ao ponto literalmente isolamento, literalmente vamos pegar uma parte do hardware que vai ser dedicado unicamente para o  um ambiente 

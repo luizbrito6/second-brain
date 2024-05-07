@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 01 - Fundamentos de Arquitetura.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 01 - Fundamentos de Arquitetura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 01 - Fundamentos de Arquitetura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md"
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 01 - Fundamentos de Arquitetura.md"
               }
             }
           }
@@ -208,8 +208,9 @@
   },
   "active": "8b46876beef0f8a1",
   "lastOpenFiles": [
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
+    "⚡ Algoritmos/Exercícios Legais do Rey.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Portas Importantes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container.md",
@@ -236,7 +237,6 @@
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Subnets.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ IP Tables.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ ICMP.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Broadcast.md",
     "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
     "🪐 AWS Solution Architect by Aquarela/Imagens",
     "🪐 AWS Solution Architect by Aquarela/Módulos",

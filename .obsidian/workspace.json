@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md"
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "8b46876beef0f8a1",
   "lastOpenFiles": [
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o OCI.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container runtime.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container engine.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é um container.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Runtime.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/OCI.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Engine.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/Proxy.md",

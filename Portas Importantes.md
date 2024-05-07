@@ -5,5 +5,4 @@
 | Kube Scheduler  | 10251          | TCP |
 | Kubelet         | 10250          | TCP |
 | Kube Controler  | 10252          | TCP |
-| Kube Proxy      |                | TCP |
 | Node Port       | 30.000 - 32767 | TCP |

@@ -1,2 +1,3 @@
 - [ ] Etcd (cérebro)
 - [ ] Kube API server 
+- [ ] Kube Scheduler 

@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0565c0f3b55f5008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portas Importantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
+                "file": "Portas Importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
+                "file": "Portas Importantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md"
+                "file": "Portas Importantes.md"
               }
             }
           }
@@ -183,15 +195,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f32ec81ed87b1d31",
+  "active": "0565c0f3b55f5008",
   "lastOpenFiles": [
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
+    "Portas Importantes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Workers.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Engine.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/OCI.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Runtime.md",
     "Linux",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
@@ -213,7 +226,6 @@
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ ICMP.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Broadcast.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Bridge.md",
-    "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ ARP.md",
     "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
     "🪐 AWS Solution Architect by Aquarela/Imagens",
     "🪐 AWS Solution Architect by Aquarela/Módulos",

@@ -2,3 +2,5 @@
 - [ ] Kube API server 
 - [ ] Kube Scheduler 
 - [ ] Kube Controler Manager 
+- [ ] Cloud Controler Manager  
+- [ ] 

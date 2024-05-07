@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portas Importantes.md",
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portas Importantes.md",
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portas Importantes.md",
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portas Importantes.md"
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md"
               }
             }
           }
@@ -197,15 +197,15 @@
   },
   "active": "0565c0f3b55f5008",
   "lastOpenFiles": [
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
-    "Portas Importantes.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Workers.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Runtime.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Engine.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Portas Importantes.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Workers.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/OCI.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Runtime.md",
     "Linux",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",

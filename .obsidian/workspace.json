@@ -4,79 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b92198dccd48dec7",
+        "id": "b8821995997b7a59",
         "type": "tabs",
         "children": [
           {
-            "id": "8b46876beef0f8a1",
+            "id": "c46776ecb20babba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "224dccc5c2700cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ffa77a9f5af6d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f32ec81ed87b1d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0565c0f3b55f5008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "095167f76c4509f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -145,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -206,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b46876beef0f8a1",
+  "active": "c46776ecb20babba",
   "lastOpenFiles": [
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Portas Importantes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Runtime.md",

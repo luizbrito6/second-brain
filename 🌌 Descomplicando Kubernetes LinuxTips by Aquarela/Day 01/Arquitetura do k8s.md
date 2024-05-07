@@ -1,5 +1,5 @@
 
 
-- [ ] Node 
+- [ ] [[Node]] 
 - [ ] [[Control Plane]]
-- [ ] Workers 
+- [ ] [[Workers]] 

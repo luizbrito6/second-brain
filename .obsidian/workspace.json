@@ -71,12 +71,8 @@
             "id": "095167f76c4509f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos Importantes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -146,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos Importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos Importantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conceitos Importantes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -209,8 +201,8 @@
   },
   "active": "095167f76c4509f0",
   "lastOpenFiles": [
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
     "Conceitos Importantes.md",
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/O que é o Kubernetes.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Runtime.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Engine.md",

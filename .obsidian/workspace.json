@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Workers.md",
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Portas Importantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Workers.md",
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Portas Importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Workers.md",
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Portas Importantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Workers.md"
+                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Portas Importantes.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "c46776ecb20babba",
   "lastOpenFiles": [
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Workers.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Portas Importantes.md",
@@ -159,7 +160,6 @@
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
     "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 01 - Fundamentos de Arquitetura.md",
     "⚡ Algoritmos/Exercícios Legais do Rey.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Workers.md",
     "Linux",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/HTTP.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TLS-SSL.md",

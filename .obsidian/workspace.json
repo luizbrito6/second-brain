@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 3 - Networking.md",
+                "file": "🌐 Redes Alura/Redes On-boarding Alura.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 3 - Networking.md",
+                "file": "🌐 Redes Alura/Redes On-boarding Alura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 3 - Networking.md",
+                "file": "🌐 Redes Alura/Redes On-boarding Alura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 3 - Networking.md"
+                "file": "🌐 Redes Alura/Redes On-boarding Alura.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "39fef2ed3d3c60e3",
   "lastOpenFiles": [
-    "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
     "Módulo 3 - Networking.md",
+    "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Subnets.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",

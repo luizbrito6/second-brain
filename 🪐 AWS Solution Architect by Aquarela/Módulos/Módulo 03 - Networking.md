@@ -10,7 +10,7 @@
 	- [ ] Elastic Networking Interface 
 	- [ ] Elastic Load Balancer
 	- [ ] Network access controll list (ACLs )
-	- [ ] Securi
+	- [ ] Security Group 
 
 
 

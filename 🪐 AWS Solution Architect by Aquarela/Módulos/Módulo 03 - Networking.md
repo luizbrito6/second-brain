@@ -9,3 +9,7 @@
 	- [ ] Elastic IP Addresses 
 	- [ ] Elastic Networking Interface 
 	- [ ] Elastic Load Balancer 
+
+
+
+> A main router table é configurada na

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39fef2ed3d3c60e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2e744f67b40756f",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -147,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c46776ecb20babba",
+  "active": "39fef2ed3d3c60e3",
   "lastOpenFiles": [
+    "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
+    "Untitled.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Subnets.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ TCPDUMP.md",
-    "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
@@ -176,7 +189,6 @@
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/TCP-IP.md",
     "⚙️ Fundamentos de Redes para DevOps/Conceitos/❌ Firewall.md",
     "🪐 AWS Solution Architect by Aquarela/Panorama Geral.md",
-    "🌐 Redes Alura/Redes On-boarding Alura.md",
     "🪐 AWS Solution Architect by Aquarela/Udemy",
     "🪐 AWS Solution Architect by Aquarela/Imagens/fluxo-treinamento.png",
     "🪐 AWS Solution Architect by Aquarela/Imagens",

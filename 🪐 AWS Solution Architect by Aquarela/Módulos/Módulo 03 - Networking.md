@@ -14,5 +14,3 @@
 		- [ ] Security Group Chaining 
 
 
-
-> A main router table é configurada na VPC ou em uma subnet específica

@@ -8,5 +8,8 @@
 	- [ ] User Groups 
 	- [ ] Roles
 		- [ ] Como funciona isso por de baixo dos panos? 
-	- [ ] Responsabilidade Compartilhada 
+	- [ ] Responsabilidade Compartilhada
+		- [ ] Services Acess 
+		- [ ] Job Function 
+		- [ ] Custom Policy 
 		

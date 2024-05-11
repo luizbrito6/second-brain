@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md"
+                "file": "🪐 AWS Solution Architect by Aquarela/Módulos/Módulo 02 - Security.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "c46776ecb20babba",
   "lastOpenFiles": [
+    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Arquitetura do k8s.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Conceitos Importantes.md",
-    "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Control Plane.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Runtime.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Container Engine.md",
     "🌌 Descomplicando Kubernetes LinuxTips by Aquarela/Day 01/Portas Importantes.md",

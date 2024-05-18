@@ -1,4 +1,9 @@
 --------
 - [ ] Block Storage 
-- [ ] File Storage 
-- [ ] Object Storage 
+	- [ ] EBS
+- [ ] File Storage
+	- [ ] EFS
+		- [ ] FSx
+- [ ] Object Storage
+	- [ ] s3 
+	- [ ] s3 glacier 

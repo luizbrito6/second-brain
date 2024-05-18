@@ -6,4 +6,6 @@
 		- [ ] FSx
 - [ ] Object Storage
 	- [ ] s3 
+		- [ ] Serverless
+		- [ ] 
 	- [ ] s3 glacier 

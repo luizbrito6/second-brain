@@ -1,4 +1,0 @@
-
-
-- [ ] Competitive Set
-- [ ] Brand Vlues
